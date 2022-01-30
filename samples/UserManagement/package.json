@@ -7,7 +7,7 @@
     "name": "hemantk"
   },
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "documentdb": "^1.12.2"
   }
 }
